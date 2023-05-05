@@ -5,7 +5,8 @@ Normalize the GEM In this lab, and merge it with preprocessed RNAseq data.
 
 Lab Objective:
 Identify human SRA kidney files from the SRA archive and create a GEM from them. 
-Normalize the GEM In this lab, identify DEGs between normal GTEx and tumor TCGA RNAseq profiles in a GEM using DESeq2 models expression profiles.
+Normalize the GEM In this lab
+Create histogram of the GEM
 
 Lab Tasks:
 
